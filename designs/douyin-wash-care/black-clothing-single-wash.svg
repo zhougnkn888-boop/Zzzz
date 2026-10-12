@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DCF3FF"/><stop offset=".55" stop-color="#F3FAFF"/><stop offset="1" stop-color="#D6F0FC"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52C9F3"/><stop offset="1" stop-color="#3197F0"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#58A1C9" flood-opacity=".14"/></filter>
+<style>text{font-family:"Noto Sans CJK SC","Noto Sans SC","Microsoft YaHei","PingFang SC",sans-serif}</style>
+</defs>
+<rect width="1200" height="1600" fill="url(#bg)"/><circle cx="1115" cy="115" r="140" fill="white" opacity=".2"/>
+<g text-anchor="middle">
+<text x="600" y="82" font-size="24" letter-spacing="6" fill="#618EAD">PRODUCT CARE · 洗护提醒</text>
+<path d="M210 164H344 M856 164H990" stroke="#6B8EAE" stroke-width="3"/>
+<text x="600" y="197" font-size="83" font-weight="800" fill="#132A45">洗护须知</text>
+<text x="600" y="267" font-size="37" fill="#4F6F8A">特别提醒 · 避免衣物串色</text></g>
+<rect x="54" y="314" width="1092" height="1212" rx="55" fill="#fff" filter="url(#s)"/>
+<rect x="111" y="373" width="257" height="72" rx="36" fill="url(#acc)"/>
+<circle cx="158" cy="409" r="21" stroke="white" stroke-width="4" fill="none"/><text x="158" y="421" font-size="31" text-anchor="middle" fill="white">!</text><text x="196" y="422" font-size="37" font-weight="800" fill="white">重要提醒</text>
+<text x="109" y="547" font-size="64" font-weight="800" fill="#112940">黑色衣物请单独洗涤</text>
+<text x="109" y="623" font-size="52" font-weight="800" fill="#137ABB">不要与其他黑色衣服混洗！</text>
+<text x="112" y="682" font-size="32" fill="#5B6E80">为避免串色，请勿与其他任何衣物一起清洗。</text>
+<line x1="109" y1="729" x2="1090" y2="729" stroke="#DBE6EE" stroke-width="2"/>
+<circle cx="151" cy="801" r="31" fill="#E6F6FE"/><text x="151" y="813" text-anchor="middle" font-size="33" font-weight="800" fill="#2699E6">01</text>
+<text x="220" y="805" font-size="43" font-weight="800" fill="#20344C">单件单洗</text><text x="220" y="855" font-size="31" fill="#607287">其他黑色、深色、浅色衣物均不要混洗</text>
+<line x1="117" y1="895" x2="1082" y2="895" stroke="#E2EAF1" stroke-width="2" stroke-dasharray="6,7"/>
+<circle cx="151" cy="963" r="31" fill="#E6F6FE"/><text x="151" y="975" text-anchor="middle" font-size="33" font-weight="800" fill="#2699E6">02</text>
+<text x="220" y="965" font-size="43" font-weight="800" fill="#20344C">冷水轻柔</text><text x="220" y="1015" font-size="31" fill="#607287">建议反面轻柔清洗，避免大力揉搓</text>
+<line x1="117" y1="1057" x2="1082" y2="1057" stroke="#E2EAF1" stroke-width="2" stroke-dasharray="6,7"/>
+<circle cx="151" cy="1124" r="31" fill="#E6F6FE"/><text x="151" y="1136" text-anchor="middle" font-size="33" font-weight="800" fill="#2699E6">03</text>
+<text x="220" y="1127" font-size="43" font-weight="800" fill="#20344C">避免久泡</text><text x="220" y="1177" font-size="31" fill="#607287">勿长时间浸泡，避免高温洗涤</text>
+<line x1="117" y1="1217" x2="1082" y2="1217" stroke="#E2EAF1" stroke-width="2" stroke-dasharray="6,7"/>
+<circle cx="151" cy="1286" r="31" fill="#E6F6FE"/><text x="151" y="1298" text-anchor="middle" font-size="33" font-weight="800" fill="#2699E6">04</text>
+<text x="220" y="1289" font-size="43" font-weight="800" fill="#20344C">及时晾干</text><text x="220" y="1339" font-size="31" fill="#607287">洗后及时取出晾晒，避免衣物互相接触</text>
+<rect x="111" y="1382" width="979" height="111" rx="26" fill="#EAF7FE"/>
+<text x="140" y="1429" font-size="31" font-weight="700" fill="#34526D">洗涤方式请以实物洗标为准。</text>
+<text x="140" y="1472" font-size="27" fill="#61798A">如遇明显异常掉色、串色，请及时联系客服处理。</text>
+</svg>
